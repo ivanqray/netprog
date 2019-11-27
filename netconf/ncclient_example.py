@@ -2,7 +2,6 @@
 Example for using filter into ncclient module;
 And i'm stole this script and i'm not ashamed;
 '''
->>>>>>> linkoln
 from ncclient import manager
 import xmltodict
 from xml.dom.minidom import pasrer, ParseString
