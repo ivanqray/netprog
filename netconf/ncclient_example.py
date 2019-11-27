@@ -1,7 +1,7 @@
 '''
-I am stole this script ;)
+Example for using filter into ncclient module;
 '''
-
+>>>>>>> linkoln
 from ncclient import manager
 import xmltodict
 import json
