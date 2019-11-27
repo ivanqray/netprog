@@ -1,3 +1,6 @@
+'''
+Example for using filter into ncclient module;
+'''
 from ncclient import manager
 import xmltodict
 import json
