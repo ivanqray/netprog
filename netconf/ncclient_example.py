@@ -4,6 +4,7 @@ Example for using filter into ncclient module;
 >>>>>>> linkoln
 from ncclient import manager
 import xmltodict
+from xml.dom.minidom import pasrer, ParseString
 import json
 
 filt = '''<filter>
