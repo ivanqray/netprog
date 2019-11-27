@@ -1,5 +1,6 @@
 '''
 Example for using filter into ncclient module;
+And i'm stole this script and i'm not ashamed;
 '''
 from ncclient import manager
 import xmltodict
