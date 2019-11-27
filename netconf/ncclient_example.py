@@ -1,3 +1,7 @@
+'''
+I am stole this script ;)
+'''
+
 from ncclient import manager
 import xmltodict
 import json
